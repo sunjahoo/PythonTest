@@ -1,0 +1,10 @@
+import this
+
+str = ' python '
+lstr = str.lstrip()
+rstr = str.rstrip()
+rlstr = str.strip()
+
+print(str)
+print(lstr)
+print(rlstr)
